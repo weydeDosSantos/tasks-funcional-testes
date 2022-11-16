@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.ce.wcaquino.tasks.prod.HealthCheckIT
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.775 sec - in br.ce.wcaquino.tasks.prod.HealthCheckIT
